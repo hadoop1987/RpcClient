@@ -7,7 +7,7 @@ import org.apache.hadoop.fs.Path;
 import java.net.URI;
 
 /**
- * 调度hadoop rpc protocol原码用
+ * 调试hadoop rpc protocol原码用
  */
 public class hdfsClientProtocolTest {
 
